@@ -1,0 +1,5 @@
+from .building_repository import BuildingRepository
+from .classroom_repository import ClassroomRepository
+from .department_repository import DepartmentRepository
+from .request_repository import RequestRepository
+from .user_repository import UserRepository
